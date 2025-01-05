@@ -1,0 +1,6 @@
+org\example\todolist\service\TaskService.class
+org\example\todolist\controller\TaskController.class
+org\example\todolist\TodolistApplication.class
+org\example\todolist\repository\TaskRepository.class
+org\example\todolist\model\Task.class
+org\example\todolist\security\WebSecurityConfig.class
