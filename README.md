@@ -8,11 +8,7 @@ This is a To-Do List application designed with a React frontend, using Material-
 
 Below is a demo video showing the functionality of the To-Do List application:
 
-
-<video width="100%" controls>
-  <source src="assets/todoapp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![](./todoapp.gif)
 
 ## Features
 
