@@ -55,7 +55,7 @@ Below is a demo video showing the functionality of the To-Do List application:
     - For the **backend**:
       ```bash
       cd backend
-      ./mvnw clean install
+      mvn clean install
       ```
 
 3. **MySQL Database Setup**:
