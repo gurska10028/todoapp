@@ -75,7 +75,7 @@ Below is a demo video showing the functionality of the To-Do List application:
 
 4. Start the backend (Spring Boot):
     ```bash
-    ./mvnw spring-boot:run
+    mvn spring-boot:run
     ```
    The backend will be available at [http://localhost:8081](http://localhost:8081).
 
